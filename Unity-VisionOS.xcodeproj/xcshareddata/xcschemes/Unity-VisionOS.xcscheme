@@ -20,48 +20,6 @@
                ReferencedContainer = "container:Unity-VisionOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5623C57217FDCB0800090B9E"
-               BuildableName = "Unity-VisionOS Tests.xctest"
-               BlueprintName = "Unity-VisionOS Tests"
-               ReferencedContainer = "container:Unity-VisionOS.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7F4E059F2717216D00A2CBE4"
-               BuildableName = "libGameAssembly.a"
-               BlueprintName = "GameAssembly"
-               ReferencedContainer = "container:Unity-VisionOS.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9D25AB9C213FB47800354C27"
-               BuildableName = "UnityFramework.framework"
-               BlueprintName = "UnityFramework"
-               ReferencedContainer = "container:Unity-VisionOS.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
       </BuildActionEntries>
    </BuildAction>
    <TestAction
@@ -79,16 +37,6 @@
          </BuildableReference>
       </MacroExpansion>
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5623C57217FDCB0800090B9E"
-               BuildableName = "Unity-VisionOS Tests.xctest"
-               BlueprintName = "Unity-VisionOS Tests"
-               ReferencedContainer = "container:Unity-VisionOS.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
    </TestAction>
    <LaunchAction
